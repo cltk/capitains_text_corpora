@@ -1,0 +1,2 @@
+# capitains_text_corpora
+Processed docs from capitains_corpora_converter
