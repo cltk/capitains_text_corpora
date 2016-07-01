@@ -1,1 +1,13 @@
-{"urn":"urn:cts:greekLit:tlg0013.tlg021.perseus-eng2-simple","meta":"line","credit":"PDL","edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator","original-urn":"urn:cts:greekLit:tlg0013.tlg021.perseus-eng2","work":"hymn 21 to apollo","text":{"0":"Phoebus, of you even the swan sings with clear voice to the beating of his wings, as\n he alights upon the bank by the eddying river Peneus; and of you the sweet-tongued minstrel,\n holding his high-pitched lyre, always sings both first and last. ","1":"And so hail to you, lord! I seek your favor with my song. "},"commit":"af9982f35cd5f36f9bcbfe25aba3b3e677326ff5","author":"homeric hymns"}
+{
+    "text":{
+        "0":"Phoebus, of you even the swan sings with clear voice to the beating of his wings, as\n he alights upon the bank by the eddying river Peneus; and of you the sweet-tongued minstrel,\n holding his high-pitched lyre, always sings both first and last. ",
+        "1":"And so hail to you, lord! I seek your favor with my song. "
+    },
+    "work":"hymn 21 to apollo",
+    "meta":"line",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg021.perseus-eng2",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "urn":"urn:cts:greekLit:tlg0013.tlg021.perseus-eng2-simple",
+    "author":"homeric hymns",
+    "credit":"PDL"
+}

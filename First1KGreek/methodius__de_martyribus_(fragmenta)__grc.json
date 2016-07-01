@@ -1,1 +1,13 @@
-{"original-urn":"urn:cts:greekLit:tlg2959.tlg008.opp-grc1","work":"de martyribus (fragmenta)","meta":"fragment","author":"methodius","edition":"Methodius, De Martyribus (Fragmenta)","urn":"urn:cts:greekLit:tlg2959.tlg008.opp-grc1-simple","credit":"OpenGreekAndLatin","text":{"0":"\n \u039f\u1f55\u03c4\u03c9 \u03b3\u1f70\u03c1 \u03b8\u03b1\u03c5\u03bc\u03b1\u03c3\u03c4\u1f78\u03bd \u03ba\u03b1\u1f76 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c0\u03bf\u1f7b\u03c3\u03b1\u03c3\u03c4\u1f79\u03bd \u1f10\u03c3\u03c4\u03b9 \u03c4\u1f78 \u03bc\u03b1\u03c1\u03c4\u1f7b\u03c1\u03b9\u03bf\u03bd,\n\u1f45\u03c4\u03b9 \u03b1\u1f50\u03c4\u1f78\u03c2 \u1f41 \u03ba\u1f7b\u03c1\u03b9\u03bf\u03c2 \u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2 \u03a7\u03c1\u03b9\u03c3\u03c4\u1f79\u03c2, \u1f41 \u03c5\u1f31\u1f78\u03c2 \u03c4\u03bf\u1fe6 \u03b8\u03b5\u03bf\u1fe6, \u03c4\u03b9\u03bc\u1ff6\u03bd \u03b1\u1f50\u03c4\u1f78\n\u1f10\u03bc\u03b1\u03c1\u03c4\u1f7b\u03c1\u03b7\u03c3\u03b5\u03bd, \u00bb\u03bf\u1f50\u03c7 \u1f01\u03c1\u03c0\u03b1\u03b3\u03bc\u1f78\u03bd\u2018 \u1f21\u03b3\u03b7\u03c3\u1f71\u03bc\u03b5\u03bd\u03bf\u03c2 \u00bb\u03c4\u1f78 \u03b5\u1f36\u03bd\u03b1\u03b9 \u1f34\u03c3\u03b1 \u03b8\u03b5\u1ff7\u00ab, \u1f34\u03bd\u03b1 \u03ba\u03b1\u1f76\n \u03c4\u03bf\u1f7b\u03c4\u1ff3 \u03c4\u1f78\u03bd \u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03bd \u03c4\u1ff7 \u03c7\u03b1\u03c1\u1f77\u03c3\u03bc\u03b1\u03c4\u03b9 \u03b5\u1f30\u03c2 \u1f45\u03bd \u03ba\u03b1\u03c4\u1f73\u03b3\u03b2\u03b7 \u03c3\u03c4\u1f73\u03c6\u1fc3. \n ","1":"\n \u03a0\u1f71\u03c3\u03b7\u03c2 \u1f00\u03b3\u03b1\u03b8\u1fc6\u03c2 \u1f21 \u03ba\u03b1\u03c4\u03b1\u03c1\u03c7\u1f74 \u03c0\u03c1\u1f71\u03be\u03b5\u03c9\u03c2 \u1f10\u03bd \u03c4\u1fc7 \u1f21\u03bc\u03b5\u03c4\u1f73\u03c1\u1fb3 \u03b2\u03bf\u03c5\u03bb\u1fc7 \u03c4\u1f74\u03bd\n\u1f51\u03c0\u1f79\u03c3\u03c4\u03b1\u03c3\u03b9\u03bd \u03ba\u1f73\u03ba\u03c4\u03b7\u03c4\u03b1\u03b9, \u03c4\u1f78 \u03b4\u1f72 \u03c3\u03c5\u03bc\u03c0\u1f73\u03c1\u03b1\u03c3\u03bc\u03b1 \u1f10\u03bd \u03c4\u1ff7 \u03b8\u03b5\u1ff7. \n "},"commit":"321cc9ffb8ee31d68a1bccc00e0d89ec8ab029ca"}
+{
+    "meta":"fragment",
+    "author":"methodius",
+    "credit":"OpenGreekAndLatin",
+    "urn":"urn:cts:greekLit:tlg2959.tlg008.opp-grc1-simple",
+    "text":{
+        "0":"\n Οὕτω γὰρ θαυμαστὸν καὶ περισπούσαστόν ἐστι τὸ μαρτύριον,\nὅτι αὐτὸς ὁ κύριος Ἰησοῦς Χριστός, ὁ υἱὸς τοῦ θεοῦ, τιμῶν αὐτὸ\nἐμαρτύρησεν, »οὐχ ἁρπαγμὸν‘ ἡγησάμενος »τὸ εἶναι ἴσα θεῷ«, ἴνα καὶ\n τούτῳ τὸν ἄνθρωπον τῷ χαρίσματι εἰς ὅν κατέγβη στέφῃ. \n ",
+        "1":"\n Πάσης ἀγαθῆς ἡ καταρχὴ πράξεως ἐν τῇ ἡμετέρᾳ βουλῇ τὴν\nὑπόστασιν κέκτηται, τὸ δὲ συμπέρασμα ἐν τῷ θεῷ. \n "
+    },
+    "work":"de martyribus (fragmenta)",
+    "original-urn":"urn:cts:greekLit:tlg2959.tlg008.opp-grc1",
+    "edition":"Methodius, De Martyribus (Fragmenta)"
+}

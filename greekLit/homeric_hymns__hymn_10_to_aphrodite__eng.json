@@ -1,1 +1,13 @@
-{"urn":"urn:cts:greekLit:tlg0013.tlg010.perseus-eng2-simple","meta":"line","credit":"PDL","edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator","original-urn":"urn:cts:greekLit:tlg0013.tlg010.perseus-eng2","work":"hymn 10 to aphrodite","text":{"0":"Of Cytherea, born in Cyprus , I will sing. \n She gives kindly gifts to men: smiles are ever on her lovely face, and lovely is the brightness that plays over it.\n Hail, goddess, queen of well-built Salamis","1":"and sea-girt Cyprus ; grant me a cheerful song. \n And now I will remember you and another song also."},"commit":"af9982f35cd5f36f9bcbfe25aba3b3e677326ff5","author":"homeric hymns"}
+{
+    "text":{
+        "0":"Of Cytherea, born in Cyprus , I will sing. \n She gives kindly gifts to men: smiles are ever on her lovely face, and lovely is the brightness that plays over it.\n Hail, goddess, queen of well-built Salamis",
+        "1":"and sea-girt Cyprus ; grant me a cheerful song. \n And now I will remember you and another song also."
+    },
+    "work":"hymn 10 to aphrodite",
+    "meta":"line",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg010.perseus-eng2",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "urn":"urn:cts:greekLit:tlg0013.tlg010.perseus-eng2-simple",
+    "author":"homeric hymns",
+    "credit":"PDL"
+}

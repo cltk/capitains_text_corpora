@@ -1,1 +1,13 @@
-{"urn":"urn:cts:greekLit:tlg0013.tlg016.perseus-eng2-simple","meta":"line","credit":"PDL","edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator","original-urn":"urn:cts:greekLit:tlg0013.tlg016.perseus-eng2","work":"hymn 16 to asclepius","text":{"0":"I begin to sing of Asclepius, son of Apollo and healer of sicknesses. In the Dotian\n plain fair Coronis, daughter of King Phlegyas, bare him, a great joy to men, a soother of\n cruel pangs. ","1":"And so hail to you, lord: in my song I make my prayer to thee! "},"commit":"af9982f35cd5f36f9bcbfe25aba3b3e677326ff5","author":"homeric hymns"}
+{
+    "text":{
+        "0":"I begin to sing of Asclepius, son of Apollo and healer of sicknesses. In the Dotian\n plain fair Coronis, daughter of King Phlegyas, bare him, a great joy to men, a soother of\n cruel pangs. ",
+        "1":"And so hail to you, lord: in my song I make my prayer to thee! "
+    },
+    "work":"hymn 16 to asclepius",
+    "meta":"line",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg016.perseus-eng2",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "urn":"urn:cts:greekLit:tlg0013.tlg016.perseus-eng2-simple",
+    "author":"homeric hymns",
+    "credit":"PDL"
+}

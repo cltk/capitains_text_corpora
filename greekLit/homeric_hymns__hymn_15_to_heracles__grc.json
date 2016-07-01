@@ -1,1 +1,13 @@
-{"urn":"urn:cts:greekLit:tlg0013.tlg015.perseus-grc2-simple","meta":"line","credit":"PDL","edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator","original-urn":"urn:cts:greekLit:tlg0013.tlg015.perseus-grc2","work":"hymn 15 to heracles","text":{"0":"\u1f29\u03c1\u03b1\u03ba\u03bb\u03ad\u03b1, \u0394\u03b9\u1f78\u03c2 \u03c5\u1f31\u03cc\u03bd, \u1f00\u03b5\u03af\u03c3\u03bf\u03bc\u03b1\u03b9, \u1f43\u03bd \u03bc\u03ad\u03b3\u02bc \u1f04\u03c1\u03b9\u03c3\u03c4\u03bf\u03bd ","1":" \u03c0\u03bb\u03b1\u03b6\u03cc\u03bc\u03b5\u03bd\u03bf\u03c2 \u03c0\u03bf\u03bc\u03c0\u1fc7\u03c3\u03b9\u03bd \u1f55\u03c0\u02bc \u0395\u1f50\u03c1\u03c5\u03c3\u03b8\u1fc6\u03bf\u03c2 \u1f04\u03bd\u03b1\u03ba\u03c4\u03bf\u03c2 "},"commit":"af9982f35cd5f36f9bcbfe25aba3b3e677326ff5","author":"homeric hymns"}
+{
+    "text":{
+        "0":"Ἡρακλέα, Διὸς υἱόν, ἀείσομαι, ὃν μέγʼ ἄριστον ",
+        "1":" πλαζόμενος πομπῇσιν ὕπʼ Εὐρυσθῆος ἄνακτος "
+    },
+    "work":"hymn 15 to heracles",
+    "meta":"line",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg015.perseus-grc2",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "urn":"urn:cts:greekLit:tlg0013.tlg015.perseus-grc2-simple",
+    "author":"homeric hymns",
+    "credit":"PDL"
+}

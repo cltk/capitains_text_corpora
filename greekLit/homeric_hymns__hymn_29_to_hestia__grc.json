@@ -1,1 +1,16 @@
-{"urn":"urn:cts:greekLit:tlg0013.tlg029.perseus-grc2-simple","meta":"line","credit":"PDL","edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator","original-urn":"urn:cts:greekLit:tlg0013.tlg029.perseus-grc2","work":"hymn 29 to hestia","text":{"0":"\u1f11\u03c3\u03c4\u03af\u03b7, \u1f23 \u03c0\u03ac\u03bd\u03c4\u03c9\u03bd \u1f10\u03bd \u03b4\u03ce\u03bc\u03b1\u03c3\u03b9\u03bd \u1f51\u03c8\u03b7\u03bb\u03bf\u1fd6\u03c3\u03b9\u03bd ","1":"\u03b5\u1f30\u03bb\u03b1\u03c0\u03af\u03bd\u03b1\u03b9 \u03b8\u03bd\u03b7\u03c4\u03bf\u1fd6\u03c3\u03b9\u03bd, \u1f35\u03bd\u1fbd \u03bf\u1f50 \u03c0\u03c1\u03ce\u03c4\u1fc3 \u03c0\u03c5\u03bc\u03ac\u03c4\u1fc3 \u03c4\u03b5 ","2":"\u1f35\u03bb\u03b1\u03bf\u03c2 \u1f62\u03bd \u1f10\u03c0\u03ac\u03c1\u03b7\u03b3\u03b5 \u03c3\u1f7a\u03bd \u03b1\u1f30\u03b4\u03bf\u03af\u1fc3 \u03c4\u03b5 \u03c6\u03af\u03bb\u1fc3 \u03c4\u03b5. ","3":"5\u03bd\u03b1\u03af\u03b5\u03c4\u03b5 \u03b4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03bb\u03ac, \u03c6\u03af\u03bb\u03b1 \u03c6\u03c1\u03b5\u03c3\u1f76\u03bd \u1f00\u03bb\u03bb\u03ae\u03bb\u03bf\u03b9\u03c3\u03b9\u03bd ","4":"\u03b5\u1f30\u03b4\u03cc\u03c4\u03b5\u03c2: \u1f00\u03bc\u03c6\u03cc\u03c4\u03b5\u03c1\u03bf\u03b9 \u03b3\u1f70\u03c1 \u1f10\u03c0\u03b9\u03c7\u03b8\u03bf\u03bd\u03af\u03c9\u03bd \u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd "},"commit":"af9982f35cd5f36f9bcbfe25aba3b3e677326ff5","author":"homeric hymns"}
+{
+    "text":{
+        "0":"ἑστίη, ἣ πάντων ἐν δώμασιν ὑψηλοῖσιν ",
+        "1":"εἰλαπίναι θνητοῖσιν, ἵν᾽ οὐ πρώτῃ πυμάτῃ τε ",
+        "2":"ἵλαος ὢν ἐπάρηγε σὺν αἰδοίῃ τε φίλῃ τε. ",
+        "3":"5ναίετε δώματα καλά, φίλα φρεσὶν ἀλλήλοισιν ",
+        "4":"εἰδότες: ἀμφότεροι γὰρ ἐπιχθονίων ἀνθρώπων "
+    },
+    "work":"hymn 29 to hestia",
+    "meta":"line",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg029.perseus-grc2",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "urn":"urn:cts:greekLit:tlg0013.tlg029.perseus-grc2-simple",
+    "author":"homeric hymns",
+    "credit":"PDL"
+}

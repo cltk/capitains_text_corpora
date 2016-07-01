@@ -1,1 +1,15 @@
-{"urn":"urn:cts:greekLit:tlg0013.tlg028.perseus-grc2-simple","meta":"line","credit":"PDL","edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator","original-urn":"urn:cts:greekLit:tlg0013.tlg028.perseus-grc2","work":"hymn 28 to athena","text":{"0":"\u03a0\u03b1\u03bb\u03bb\u03ac\u03b4\u1fbd \u1f08\u03b8\u03b7\u03bd\u03b1\u03af\u03b7\u03bd, \u03ba\u03c5\u03b4\u03c1\u1f74\u03bd \u03b8\u03b5\u03cc\u03bd, \u1f04\u03c1\u03c7\u03bf\u03bc\u1fbd \u1f00\u03b5\u03af\u03b4\u03b5\u03b9\u03bd ","1":"\u03c3\u03b5\u03bc\u03bd\u1fc6\u03c2 \u1f10\u03ba \u03ba\u03b5\u03c6\u03b1\u03bb\u1fc6\u03c2, \u03c0\u03bf\u03bb\u03b5\u03bc\u03ae\u03b9\u03b1 \u03c4\u03b5\u03cd\u03c7\u03b5\u1fbd \u1f14\u03c7\u03bf\u03c5\u03c3\u03b1\u03bd, ","2":"\u03b4\u03b5\u03b9\u03bd\u1f78\u03bd \u1f51\u03c0\u1f78 \u03b2\u03c1\u03af\u03bc\u03b7\u03c2 \u03b3\u03bb\u03b1\u03c5\u03ba\u03ce\u03c0\u03b9\u03b4\u03bf\u03c2: \u1f00\u03bc\u03c6\u1f76 \u03b4\u1f72 \u03b3\u03b1\u1fd6\u03b1 ","3":"\u03b5\u1f35\u03bb\u03b5\u03c4\u1fbd \u1f00\u03c0\u1fbd \u1f00\u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u1f64\u03bc\u03c9\u03bd \u03b8\u03b5\u03bf\u03b5\u03af\u03ba\u03b5\u03bb\u03b1 \u03c4\u03b5\u03cd\u03c7\u03b7 "},"commit":"af9982f35cd5f36f9bcbfe25aba3b3e677326ff5","author":"homeric hymns"}
+{
+    "text":{
+        "0":"Παλλάδ᾽ Ἀθηναίην, κυδρὴν θεόν, ἄρχομ᾽ ἀείδειν ",
+        "1":"σεμνῆς ἐκ κεφαλῆς, πολεμήια τεύχε᾽ ἔχουσαν, ",
+        "2":"δεινὸν ὑπὸ βρίμης γλαυκώπιδος: ἀμφὶ δὲ γαῖα ",
+        "3":"εἵλετ᾽ ἀπ᾽ ἀθανάτων ὤμων θεοείκελα τεύχη "
+    },
+    "work":"hymn 28 to athena",
+    "meta":"line",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg028.perseus-grc2",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "urn":"urn:cts:greekLit:tlg0013.tlg028.perseus-grc2-simple",
+    "author":"homeric hymns",
+    "credit":"PDL"
+}

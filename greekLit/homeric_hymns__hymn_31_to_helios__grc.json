@@ -1,1 +1,16 @@
-{"urn":"urn:cts:greekLit:tlg0013.tlg031.perseus-grc2-simple","meta":"line","credit":"PDL","edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator","original-urn":"urn:cts:greekLit:tlg0013.tlg031.perseus-grc2","work":"hymn 31 to helios","text":{"0":"\u1f25\u03bb\u03b9\u03bf\u03bd \u1f51\u03bc\u03bd\u03b5\u1fd6\u03bd \u03b1\u1f56\u03c4\u03b5 \u0394\u03b9\u1f78\u03c2 \u03c4\u03ad\u03ba\u03bf\u03c2 \u1f04\u03c1\u03c7\u03b5\u03bf \u039c\u03bf\u1fe6\u03c3\u03b1, ","1":"\u03b1\u1f50\u03c4\u03bf\u03ba\u03b1\u03c3\u03b9\u03b3\u03bd\u03ae\u03c4\u03b7\u03bd, \u1f25 \u03bf\u1f31 \u03c4\u03ad\u03ba\u03b5 \u03ba\u03ac\u03bb\u03bb\u03b9\u03bc\u03b1 \u03c4\u03ad\u03ba\u03bd\u03b1, ","2":"\u03c7\u03c1\u03c5\u03c3\u03ad\u03b7\u03c2 \u1f10\u03ba \u03ba\u03cc\u03c1\u03c5\u03b8\u03bf\u03c2\u00b7 \u03bb\u03b1\u03bc\u03c0\u03c1\u03b1\u1f76 \u03b4\u02bc \u1f00\u03ba\u03c4\u1fd6\u03bd\u03b5\u03c2 \u1f00\u03c0\u02bc \u03b1\u1f50\u03c4\u03bf\u1fe6 ","3":"\u1f14\u03bd\u03b8\u02bc \u1f04\u03c1\u02bc \u1f45 \u03b3\u03b5 \u03c3\u03c4\u03ae\u03c3\u03b1\u03c2 \u03c7\u03c1\u03c5\u03c3\u03cc\u03b6\u03c5\u03b3\u03bf\u03bd \u1f05\u03c1\u03bc\u03b1 \u03ba\u03b1\u1f76 \u1f35\u03c0\u03c0\u03bf\u03c5\u03c2, ","4":"[\u03b1\u1f50\u03c4\u03cc\u03b8\u03b9 \u03c0\u03b1\u03cd\u03b5\u03c4\u03b1\u03b9 \u1f04\u03ba\u03c1\u03bf\u03c5 \u1f10\u03c0\u02bc \u03bf\u1f50\u03c1\u03b1\u03bd\u03bf\u1fe6, \u03b5\u1f30\u03c3\u03cc\u03ba\u03b5\u03bd \u03b1\u1f56\u03c4\u03b9\u03c2] "},"commit":"af9982f35cd5f36f9bcbfe25aba3b3e677326ff5","author":"homeric hymns"}
+{
+    "text":{
+        "0":"ἥλιον ὑμνεῖν αὖτε Διὸς τέκος ἄρχεο Μοῦσα, ",
+        "1":"αὐτοκασιγνήτην, ἥ οἱ τέκε κάλλιμα τέκνα, ",
+        "2":"χρυσέης ἐκ κόρυθος· λαμπραὶ δʼ ἀκτῖνες ἀπʼ αὐτοῦ ",
+        "3":"ἔνθʼ ἄρʼ ὅ γε στήσας χρυσόζυγον ἅρμα καὶ ἵππους, ",
+        "4":"[αὐτόθι παύεται ἄκρου ἐπʼ οὐρανοῦ, εἰσόκεν αὖτις] "
+    },
+    "work":"hymn 31 to helios",
+    "meta":"line",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg031.perseus-grc2",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "urn":"urn:cts:greekLit:tlg0013.tlg031.perseus-grc2-simple",
+    "author":"homeric hymns",
+    "credit":"PDL"
+}

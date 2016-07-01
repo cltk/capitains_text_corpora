@@ -1,1 +1,16 @@
-{"urn":"urn:cts:greekLit:tlg0013.tlg031.perseus-eng2-simple","meta":"line","credit":"PDL","edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator","original-urn":"urn:cts:greekLit:tlg0013.tlg031.perseus-eng2","work":"hymn 31 to helios","text":{"0":"And now, O Muse Calliope, daughter of Zeus, begin to sing of glowing Helios whom mild-eyed Euryphaessa, the far-shining one, bare to the Son of Earth and starry Heaven. For Hyperion wedded glorious Euryphaessa, ","1":"his own sister, who bare him lovely children, rosy-armed Eos and rich-tressed Selene and tireless Helios who is like the deathless gods. As he rides in his chariot, he shines upon men and deathless gods, and piercingly he gazes with his eyes ","2":"from his golden helmet. Bright rays beam dazzlingly from him, and his bright locks streaming from the temples of his head gracefully enclose his far-seen face: a rich, fine-spun garment glows upon his body and flutters in the wind: and stallions carry him. ","3":"Then, when he has stayed his golden-yoked chariot and horses, ","4":"he rests there upon the highest point of heaven, until he marvelously drives them down again through heaven to Ocean.\n Hail to you, lord! Freely bestow on me substance that cheers the heart. And now that I have begun with you, I will celebrate the race of mortal men half-divine whose deeds the Muses have showed to mankind."},"commit":"af9982f35cd5f36f9bcbfe25aba3b3e677326ff5","author":"homeric hymns"}
+{
+    "text":{
+        "0":"And now, O Muse Calliope, daughter of Zeus, begin to sing of glowing Helios whom mild-eyed Euryphaessa, the far-shining one, bare to the Son of Earth and starry Heaven. For Hyperion wedded glorious Euryphaessa, ",
+        "1":"his own sister, who bare him lovely children, rosy-armed Eos and rich-tressed Selene and tireless Helios who is like the deathless gods. As he rides in his chariot, he shines upon men and deathless gods, and piercingly he gazes with his eyes ",
+        "2":"from his golden helmet. Bright rays beam dazzlingly from him, and his bright locks streaming from the temples of his head gracefully enclose his far-seen face: a rich, fine-spun garment glows upon his body and flutters in the wind: and stallions carry him. ",
+        "3":"Then, when he has stayed his golden-yoked chariot and horses, ",
+        "4":"he rests there upon the highest point of heaven, until he marvelously drives them down again through heaven to Ocean.\n Hail to you, lord! Freely bestow on me substance that cheers the heart. And now that I have begun with you, I will celebrate the race of mortal men half-divine whose deeds the Muses have showed to mankind."
+    },
+    "work":"hymn 31 to helios",
+    "meta":"line",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg031.perseus-eng2",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "urn":"urn:cts:greekLit:tlg0013.tlg031.perseus-eng2-simple",
+    "author":"homeric hymns",
+    "credit":"PDL"
+}

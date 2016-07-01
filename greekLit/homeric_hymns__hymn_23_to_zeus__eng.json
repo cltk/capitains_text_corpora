@@ -1,1 +1,12 @@
-{"urn":"urn:cts:greekLit:tlg0013.tlg023.perseus-eng2-simple","meta":"line","credit":"PDL","edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator","original-urn":"urn:cts:greekLit:tlg0013.tlg023.perseus-eng2","work":"hymn 23 to zeus","text":{"0":"I will sing of Zeus, chiefest among the gods and greatest, all-seeing, the lord of\n all, the fulfiller who whispers words of wisdom to Themis as she sits leaning towards him.\n Be gracious, all-seeing Son of Cronos, most excellent and great! "},"commit":"af9982f35cd5f36f9bcbfe25aba3b3e677326ff5","author":"homeric hymns"}
+{
+    "text":{
+        "0":"I will sing of Zeus, chiefest among the gods and greatest, all-seeing, the lord of\n all, the fulfiller who whispers words of wisdom to Themis as she sits leaning towards him.\n Be gracious, all-seeing Son of Cronos, most excellent and great! "
+    },
+    "work":"hymn 23 to zeus",
+    "meta":"line",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg023.perseus-eng2",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "urn":"urn:cts:greekLit:tlg0013.tlg023.perseus-eng2-simple",
+    "author":"homeric hymns",
+    "credit":"PDL"
+}

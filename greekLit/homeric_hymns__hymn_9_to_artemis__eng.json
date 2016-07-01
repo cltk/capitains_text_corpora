@@ -1,1 +1,13 @@
-{"urn":"urn:cts:greekLit:tlg0013.tlg009.perseus-eng2-simple","meta":"line","credit":"PDL","edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator","original-urn":"urn:cts:greekLit:tlg0013.tlg009.perseus-eng2","work":"hymn 9 to artemis","text":{"0":"Muse, sing of Artemis, sister of the Far-shooter, the virgin who delights in arrows,\n who was fostered with Apollo. She waters her horses from Meles deep in reeds, and swiftly\n drives her all-golden chariot through Smyrna \n ","1":"to vine-clad Claros where Apollo, god of the silver bow, sits waiting for the\n far-shooting goddess who delights in arrows. And so hail to you, Artemis, in my song and to\n all goddesses as well. Of you first I sing and with you I begin; now that I have begun with\n you, I will turn to another song. "},"commit":"af9982f35cd5f36f9bcbfe25aba3b3e677326ff5","author":"homeric hymns"}
+{
+    "text":{
+        "0":"Muse, sing of Artemis, sister of the Far-shooter, the virgin who delights in arrows,\n who was fostered with Apollo. She waters her horses from Meles deep in reeds, and swiftly\n drives her all-golden chariot through Smyrna \n ",
+        "1":"to vine-clad Claros where Apollo, god of the silver bow, sits waiting for the\n far-shooting goddess who delights in arrows. And so hail to you, Artemis, in my song and to\n all goddesses as well. Of you first I sing and with you I begin; now that I have begun with\n you, I will turn to another song. "
+    },
+    "work":"hymn 9 to artemis",
+    "meta":"line",
+    "original-urn":"urn:cts:greekLit:tlg0013.tlg009.perseus-eng2",
+    "edition":"Hymni Homerici, creator; Hesiod, creator; Homer, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "urn":"urn:cts:greekLit:tlg0013.tlg009.perseus-eng2-simple",
+    "author":"homeric hymns",
+    "credit":"PDL"
+}
